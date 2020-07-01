@@ -1,12 +1,11 @@
-name: ztmwindows
+name: D:\Documents\Projects\bulldozer_price_prediction\env
 channels:
   - defaults
 dependencies:
-  - scikit-learn
-  - jupyter
   - numpy
+  - scikit-learn
   - pandas
+  - jupyter
   - matplotlib
-  - seaborn
-prefix: C:\Users\sauli\.conda\envs\ztmwindows
+prefix: D:\Documents\Projects\bulldozer_price_prediction\env
 
